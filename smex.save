@@ -1,0 +1,31 @@
+
+;; ----- smex-history -----
+(
+ font-lock-fontify-buffer
+ recover-file
+ nxml-mode
+ vc-diff
+ dired
+ python-shell
+ revert-buffer
+)
+
+;; ----- smex-data -----
+(
+ (revert-buffer . 3)
+ (gdb . 1)
+ (pdb . 1)
+ (linum-mode . 2)
+ (goto-line . 3)
+ (dired . 3)
+ (dired-create-directory . 2)
+ (dired-find-file . 1)
+ (replace-string . 2)
+ (font-lock-fontify-buffer . 3)
+ (indent-region . 1)
+ (indent-relative . 1)
+ (python-shell . 1)
+ (vc-diff . 2)
+ (nxml-mode . 2)
+ (recover-file . 1)
+)
